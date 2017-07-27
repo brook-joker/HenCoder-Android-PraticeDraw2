@@ -5,7 +5,7 @@ HenCoder 绘制 2 练习项目
 
 ### 这是什么？
 
-这不是一个独立使用的项目，它是 [HenCoder Android 开发进阶：UI 1-2 Paint 详解](http://hencoder.com/ui-1-2) 的配套练习项目。
+这不是一个独立使用的项目，它是 [HenCoder Android 开发进阶：UI 1-2 Paint 详解](http://hencoder.com/ui-1-2) 的参考答案。
 
 ### 怎么用？
 
